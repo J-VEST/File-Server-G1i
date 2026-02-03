@@ -1,3 +1,2 @@
 # File-Server-G1i
-[Gamertag 2031](https://www.xbox.com/en-US/play/user/mirrordev2031)
-
+📺: [File-Server-G1i](https://music.youtube.com/channel/UCn2ewXWudar-TqLJsA9sQ9A)
