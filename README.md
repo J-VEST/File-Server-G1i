@@ -1,5 +1,6 @@
 
-# File-Server-G1i
+<p align="center"> # File-Server-G1i
+  </p>
 <br><br>
 <p align="center">
   📂 <a href="https://music.youtube.com/channel/UCn2ewXWudar-TqLJsA9sQ9A">G7BR9-8QV29-3QFHP-F84WG-000YT</a>
