@@ -1,3 +1,4 @@
+
 # File-Server-G1i
 <br><br>
 <p align="center">
@@ -6,4 +7,4 @@
 
 <br>
 
-<img width="950" height="950" alt="4EA94202-AA2A-4EE5-B82C-D282406CE0BD_1_201_a" src="https://github.com/user-attachments/assets/ef4b84c4-217a-4588-a271-ae4a83e648eb" />
+<img width="576" height="576" alt="IMG_1094" src="https://github.com/user-attachments/assets/ff00a568-c5c2-43ef-b00e-2dfde38e8159" />
