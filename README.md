@@ -4,7 +4,7 @@
 
 <br><br>
 <p align="center">
- 📂 Upload stems ↪ <a href="https://music.youtube.com/channel/UCn2ewXWudar-TqLJsA9sQ9A">Here</a>
+ 📂 Upload Stems ↪ <a href="https://music.youtube.com/channel/UCn2ewXWudar-TqLJsA9sQ9A">Here</a>
 </p>
 
 <br>
