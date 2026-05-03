@@ -16,9 +16,9 @@
 	
 2. Bounce all of your tracks as separations and upload them to the main folder. Make sure to include in each file's name what is what i.e. VOX, GTRS, KEYS, BASS. The maximum number of stems I can accept on Dropbox is probably 4 or 5 depending on the length of your song (preferably 48k .wav files) 
 
->Once I've spent a certain amount of time (I consider 3 days to be 1 session as per 1 song for the cost of 75 XRP) I'll upload the new mix/master to the [after] folder. If you'd like revisions please message me on Facebook or LinkedIn with what you'd like to hear more or less of.
+		>Once I've spent a certain amount of time (I consider 3 days to be 1 session as per 1 song for the cost of 75 XRP) I'll upload the new mix/master to the [after] folder. If you'd like revisions please message me on Facebook or LinkedIn with what you'd like to hear more or less of.
 
->Consider mailing to me your SSD hard drives or thumb drives with organized folders using the same parameters listed in the steps above. If you'd like to move forward with entire albums, EPs, or remixes I'll be your guy.
+	>Consider mailing to me your SSD hard drives or thumb drives with organized folders using the same parameters listed in the steps above. If you'd like to move forward with entire albums, EPs, or remixes I'll be your guy.
 
 
 
