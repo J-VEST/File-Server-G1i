@@ -18,6 +18,6 @@
 
 	>Once I've spent a certain amount of time (I consider 3 days to be 1 session as per 1 song for the cost of 75 XRP) I'll upload the new mix/master to the [after] folder. If you'd like revisions, please message me on Facebook or LinkedIn with what you'd like to hear more or less of.
 
->Consider mailing to me your SSD hard drives or thumb drives with organized folders inside using the same parameters listed in the steps above. If you'd like to move forward with entire albums, EPs, or remixes I'll be your guy.
+>Consider mailing to me your SSD hard drives or thumb drives with organized folders inside them using the same parameters listed in the steps above. If you'd like to move forward with entire albums, EPs, or remixes I'll be your guy.
 
 P.S. Remember to bounce in place any midi compositions to separate tracks as audio files. If I don't have the same plugins or virtual instruments that you have, the tracks will not work properly in my DAW. 
