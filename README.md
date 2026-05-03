@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27316213/README.md)
 
 # <p align="center"> File-Server-G1i
 </p>
