@@ -20,6 +20,4 @@
 
 >Consider mailing to me your SSD hard drives or thumb drives with organized folders inside using the same parameters listed in the steps above. If you'd like to move forward with entire albums, EPs, or remixes I'll be your guy.
 
-
-
-	>P.S. Remember to bounce in place any midi compositions to separate tracks as audio files. If I don't have the same plugins or virtual instruments that you have, the tracks will not work properly in my DAW. 
+P.S. Remember to bounce in place any midi compositions to separate tracks as audio files. If I don't have the same plugins or virtual instruments that you have, the tracks will not work properly in my DAW. 
